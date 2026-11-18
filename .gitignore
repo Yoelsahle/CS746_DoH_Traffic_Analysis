@@ -1,0 +1,25 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Raw packet captures (may be large or sensitive)
+*.pcap
+*.pcapng
+pcaps/
+
+# Temporary files
+*.log
+*.tmp
+.venv-pcap/

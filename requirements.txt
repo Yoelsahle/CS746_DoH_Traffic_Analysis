@@ -1,0 +1,10 @@
+# CS 746 DoH project — core EDA, statistics, and robustness notebooks
+# Install: python -m pip install -r requirements.txt
+# Tested notebook code uses these packages; NFStream is NOT required.
+numpy>=2.0,<3
+pandas>=2.2,<4
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+scipy>=1.12,<2
+statsmodels>=0.14,<1
+ipykernel>=6.29,<9
